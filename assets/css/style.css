@@ -1,0 +1,115 @@
+
+::selection{ background-color: #E13300; color: white; }
+::moz-selection{ background-color: #E13300; color: white; }
+::webkit-selection{ background-color: #E13300; color: white; }
+
+body {
+	background-color: #fff;
+	margin: 40px;
+	font: 13px/20px normal Helvetica, Arial, sans-serif;
+	color: #4F5155;
+}
+
+a {
+	color: #003399;
+	background-color: transparent;
+	font-weight: normal;
+}
+
+h1 {
+	color: #444;
+	background-color: transparent;
+	border-bottom: 1px solid #D0D0D0;
+	font-size: 19px;
+	font-weight: normal;
+	margin: 0 0 14px 0;
+	padding: 14px 15px 10px 15px;
+}
+
+code {
+	font-family: Consolas, Monaco, Courier New, Courier, monospace;
+	font-size: 12px;
+	background-color: #f9f9f9;
+	border: 1px solid #D0D0D0;
+	color: #002166;
+	display: block;
+	margin: 14px 0 14px 0;
+	padding: 12px 10px 12px 10px;
+}
+
+#body{
+	margin: 0 15px 0 15px;
+}
+
+p.footer{
+	text-align: right;
+	font-size: 11px;
+	border-top: 1px solid #D0D0D0;
+	line-height: 32px;
+	padding: 0 10px 0 10px;
+	margin: 20px 0 0 0;
+}
+
+#container{
+	margin: 10px;
+	border: 1px solid #D0D0D0;
+	-webkit-box-shadow: 0 0 8px #D0D0D0;
+}
+#activity {
+    		border: 1px solid black;
+    		display: block;
+    		height: 250px;
+            margin: 0px auto;
+    		overflow-y: scroll;
+    		vertical-align: top;
+    		width: 1020px;
+    	}
+    	#gold {
+            background-color: #EFE6A8;
+            border-radius: 5px;
+            color: #D7362E;
+            font-size: 25px;
+    		display: inline;
+    		height: 35px;
+            margin-bottom: 20px;
+    		padding-top: 5px;
+    		vertical-align: top;
+    		width: 100px;
+    	}
+        #successful {
+            background-color: red;
+            border: 1px solid black;
+            height: 70px;
+            margin: 0px auto;
+            text-align: center;
+            width: 400px;
+        }
+        .money{
+            background-color: #003C65;
+        	border: 1px solid black;
+            border-radius: 50px;
+            color: white;
+        	display: block;
+    		font-size: 20px;
+    		height: 150px;
+    		text-align: center;
+    		width: 250px;
+        }
+
+        .find_gold_button {
+            background-color: #00A8E6;
+            padding: 4px;
+            font-weight: bolder;
+        }
+
+        table{
+            margin: 0px auto;
+            vertical-align: top;
+        }
+        h3{
+        	display: inline;
+        	margin-left: 130px;
+        }
+        .act{
+        	margin-left: 130px;
+        }
